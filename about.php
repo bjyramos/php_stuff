@@ -1,5 +1,5 @@
 <? php
 
-echo "This is our About Page";
+echo "This is our Home Page";
 
 ?>
