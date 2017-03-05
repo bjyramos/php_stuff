@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Blog Post - <?php echo $site_title; ?></title>
+    <title>Post - <?php echo $site_title; ?></title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -163,7 +163,7 @@
     <br></br>
                 <!-- Blog Search Well -->
                 <div class="well">
-                    <h4>Sound Search</h4>
+                    <h4>Brainwave Shape Search</h4>
                     <div class="input-group">
                         <input type="text" class="form-control">
                         <span class="input-group-btn">
