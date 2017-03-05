@@ -1,5 +1,5 @@
 <?php
 
-$site_title = "EEG Synthesis";
+$site_title = "EEG Sound Synthesis";
 
 ?> 
